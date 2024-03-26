@@ -6,14 +6,6 @@ This repository contains the code and documentation for the project "Small Langu
 
 The project aims to demonstrate the potential of SLMs, particularly the Mixtral model, when fine-tuned with educational datasets like SciQ and MedMCQA. We evaluate the performance of these models in generating accurate and format-aligned MCQs, providing insights into their application in automated assessment and personalized learning.
 
-## Getting Started
-
-To get started with this project, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/mudogruer/SLMs.git
-
-
 ## Prerequisites
 
 Ensure you have the following installed:
@@ -25,4 +17,13 @@ Ensure you have the following installed:
 
     SciQ: A dataset for science exam MCQs. Download (https://allenai.org/data/sciq).
     MedMCQA: A medical domain MCQ dataset. Download (https://github.com/medmcqa/medmcqa).
+
+## Getting Started
+
+To get started with this project, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/mudogruer/SLMs.git
+
+
 
