@@ -12,3 +12,17 @@ To get started with this project, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mudogruer/SLMs.git
+
+
+## Prerequisites
+
+Ensure you have the following installed:
+    Python 3.8 or later
+    PyTorch
+    Transformers
+
+## Datasets
+
+    SciQ: A dataset for science exam MCQs. Download (https://allenai.org/data/sciq).
+    MedMCQA: A medical domain MCQ dataset. Download (https://github.com/medmcqa/medmcqa).
+
